@@ -77,6 +77,7 @@ python src/etg_animator.py
 We are building a community of physicists, developers, and enthusiasts to push this project from code to reality.
 
 - **🐦 Follow updates on X:** [@ETG_Quantum](https://x.com/ETG_Quantum)
+- **👽 Join the discussion on Reddit:** [u/TabletopGravity](https://www.reddit.com/user/TabletopGravity/)
 - **📧 Join the Early Access List:** [Subscribe on Substack](https://substack.com/@entanglementtabletopgravity)
 
 ## 📄 License

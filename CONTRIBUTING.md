@@ -21,6 +21,6 @@ We are currently in the **Pre-Launch Validation** phase and are looking for:
 
 ## 💬 Community
 
-Join the discussion on our [X (Twitter) account @ETG_Quantum](https://twitter.com/ETG_Quantum) or open an Issue in this repository.
+Join the discussion on our [X (Twitter) account @ETG_Quantum](https://x.com/ETG_Quantum), on [Reddit u/TabletopGravity](https://www.reddit.com/user/TabletopGravity/), or open an Issue in this repository.
 
 Let's build spacetime together! 🌌
