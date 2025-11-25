@@ -76,8 +76,8 @@ python src/etg_animator.py
 ## 🤝 Join the Research
 We are building a community of physicists, developers, and enthusiasts to push this project from code to reality.
 
-- **🐦 Follow updates on X:** [@ETG_Quantum](https://twitter.com/ETG_Quantum)
-- **📧 Join the Early Access List:** [Subscribe Here](#) *(Link your mailing list here)*
+- **🐦 Follow updates on X:** [@ETG_Quantum](https://x.com/ETG_Quantum)
+- **📧 Join the Early Access List:** [Subscribe on Substack](https://substack.com/@entanglementtabletopgravity)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
